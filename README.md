@@ -1,6 +1,6 @@
 ## GlobalAIHub-AirleneCustomerSatisfaction
 
-# AirlenesCustomerSatisfaction Modeli ile Havayolu Müşteri Deneyimini Optimize Etme
+
 
 AirlenesCustomerSatisfaction modeli, havayollarının müşteri memnuniyetini artırmak için geliştirdiğimiz kapsamlı bir analiz aracıdır. Model, uçuş deneyimi, hizmet kalitesi, fiyatlandırma gibi birçok faktörü değerlendirerek müşteri memnuniyetini etkileyen en önemli unsurları belirler.
 
